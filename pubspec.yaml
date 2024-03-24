@@ -1,0 +1,16 @@
+name: tacirupeca
+description: A simple utility to generate anagrams.
+version: 0.1.0
+
+repository: https://github.com/albertms10/tacirupeca.git
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  collection: ^1.18.0
+  diacritic: ^0.1.5
+
+dev_dependencies:
+  test: ^1.25.2
+  very_good_analysis: ^5.1.0
